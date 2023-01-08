@@ -1,3 +1,27 @@
 a {
     color: navy;
 }
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #333;
+    color: #fff;
+  }
+  
+h1 {
+    text-align: center;
+    font-size: 3em;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    margin-bottom: 0.5em;
+    color: #00b8d4;
+  }
+.picture{
+    width: 150px;
+    display: block;
+    margin:auto;
+
+}
+.name{
+    text-align: center;
+}
